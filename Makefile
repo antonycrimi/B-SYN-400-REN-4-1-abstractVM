@@ -1,6 +1,6 @@
 ##
-## EPITECH PROJECT, 2021
-## makefile
+## EPITECH PROJECT
+## Makefile AbstractVM
 ## File description:
 ## Makefile
 ##
